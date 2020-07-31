@@ -1,0 +1,4 @@
+Coronaviridae	SARS-2	0.75	0.05
+Coronaviridae	SARS	0.25	0.2
+Coronaviridae	MERS	0.1	0.25
+Orthomyxoviridae	Influenza	0.6	0.005

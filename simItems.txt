@@ -1,0 +1,2 @@
+face mask	0.5	2.00
+flu vaccine	0.2	20.00
